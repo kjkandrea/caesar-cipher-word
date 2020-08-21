@@ -1,0 +1,23 @@
+{
+  "name": "caesar-cipher-word",
+  "version": "1.0.0",
+  "description": "본 어플리케이션은 사용자가 입력한 단어를 시저암호의 규칙으로, 특정한 배열을 반환하는 것이 목표입니다.",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "lite-server --baseDir='src'",
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjkandrea/caesar-cipher-word.git"
+  },
+  "author": "andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjkandrea/caesar-cipher-word/issues"
+  },
+  "homepage": "https://github.com/kjkandrea/caesar-cipher-word#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
